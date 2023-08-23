@@ -1,0 +1,20 @@
+# np.__version__ 1.18.4
+# scipy.__version__ 1.4.1
+# skimage.__version__ 0.17.1
+# cv2.__version__ 3.4.2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - ipywidgets
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - scikit-image=0.18
+  - pillow
+  - opencv=3.4
+  - networkx
+  - bokeh
