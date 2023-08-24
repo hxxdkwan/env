@@ -9,7 +9,7 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-learn
-  - scikit-image=0.17
+  - scikit-image=0.18
   - pillow
   - opencv=3.4
   - networkx
